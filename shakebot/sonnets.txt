@@ -1,291 +1,3 @@
-*******The Project Gutenberg Etext of Shakespeare's Sonnets******
-#2 in our series by William Shakespeare
-
-[#1 in our series is the Complete Works of Shakespeare,
-as presented to use by the World Library, copyrighted.
-We will be presenting those as individual plays, now that
-we have we have reached the presentation of Etext #1,000]
-
-This Etext was prepared by the Project Gutenberg Shakespeare Team.
-This Etext is an independent production presented as Public Domain.
-
-
-Copyright laws are changing all over the world, be sure to check
-the copyright laws for your country before posting these files!!
-
-Please take a look at the important information in this header.
-We encourage you to keep this file on your own disk, keeping an
-electronic path open for the next readers.  Do not remove this.
-
-
-**Welcome To The World of Free Plain Vanilla Electronic Texts**
-
-**Etexts Readable By Both Humans and By Computers, Since 1971**
-
-*These Etexts Prepared By Hundreds of Volunteers and Donations*
-
-Information on contacting Project Gutenberg to get Etexts, and
-further information is included below.  We need your donations.
-
-
-Shakespeare's Sonnets
-
-by William Shakespeare
-
-September, 1997  [Etext #1041]
-
-
-*******The Project Gutenberg Etext of Shakespeare's Sonnets******
-******This file should be named wssnt10.txt or wssnt10.zip******
-
-Corrected EDITIONS of our etexts get a new NUMBER, wssnt11.txt.
-VERSIONS based on separate sources get new LETTER, wssnt10a.txt.
-
-
-This etext was prepared by Joseph S. Miller, Pensacola, FL and
-Embry-Riddle Aeronautical University Library, Prescott, AZ.
-
-
-We are now trying to release all our books one month in advance
-of the official release dates, for time for better editing.
-
-Please note:  neither this list nor its contents are final till
-midnight of the last day of the month of any such announcement.
-The official release date of all Project Gutenberg Etexts is at
-Midnight, Central Time, of the last day of the stated month.  A
-preliminary version may often be posted for suggestion, comment
-and editing by those who wish to do so.  To be sure you have an
-up to date first edition [xxxxx10x.xxx] please check file sizes
-in the first week of the next month.  Since our ftp program has
-a bug in it that scrambles the date [tried to fix and failed] a
-look at the file size will have to do, but we will try to see a
-new copy has at least one byte more or less.
-
-
-Information about Project Gutenberg (one page)
-
-We produce about two million dollars for each hour we work.  The
-fifty hours is one conservative estimate for how long it we take
-to get any etext selected, entered, proofread, edited, copyright
-searched and analyzed, the copyright letters written, etc.  This
-projected audience is one hundred million readers.  If our value
-per text is nominally estimated at one dollar then we produce $2
-million dollars per hour this year as we release thirty-two text
-files per month, or 384 more Etexts in 1997 for a total of 1000+
-If these reach just 10% of the computerized population, then the
-total should reach over 100 billion Etexts given away.
-
-The Goal of Project Gutenberg is to Give Away One Trillion Etext
-Files by the December 31, 2001.  [10,000 x 100,000,000=Trillion]
-This is ten thousand titles each to one hundred million readers,
-which is only 10% of the present number of computer users.  2001
-should have at least twice as many computer users as that, so it
-will require us reaching less than 5% of the users in 2001.
-
-
-We need your donations more than ever!
-
-
-All donations should be made to "Project Gutenberg/CMU": and are
-tax deductible to the extent allowable by law.  (CMU = Carnegie-
-Mellon University).
-
-For these and other matters, please mail to:
-
-Project Gutenberg
-P. O. Box  2782
-Champaign, IL 61825
-
-When all other email fails try our Executive Director:
-Michael S. Hart <hart@pobox.com>
-
-We would prefer to send you this information by email
-(Internet, Bitnet, Compuserve, ATTMAIL or MCImail).
-
-******
-If you have an FTP program (or emulator), please
-FTP directly to the Project Gutenberg archives:
-[Mac users, do NOT point and click. . .type]
-
-ftp uiarchive.cso.uiuc.edu
-login:  anonymous
-password:  your@login
-cd etext/etext90 through /etext96
-or cd etext/articles [get suggest gut for more information]
-dir [to see files]
-get or mget [to get files. . .set bin for zip files]
-GET INDEX?00.GUT
-for a list of books
-and
-GET NEW GUT for general information
-and
-MGET GUT* for newsletters.
-
-**Information prepared by the Project Gutenberg legal advisor**
-(Three Pages)
-
-
-***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
-Why is this "Small Print!" statement here?  You know: lawyers.
-They tell us you might sue us if there is something wrong with
-your copy of this etext, even if you got it for free from
-someone other than us, and even if what's wrong is not our
-fault.  So, among other things, this "Small Print!" statement
-disclaims most of our liability to you.  It also tells you how
-you can distribute copies of this etext if you want to.
-
-*BEFORE!* YOU USE OR READ THIS ETEXT
-By using or reading any part of this PROJECT GUTENBERG-tm
-etext, you indicate that you understand, agree to and accept
-this "Small Print!" statement.  If you do not, you can receive
-a refund of the money (if any) you paid for this etext by
-sending a request within 30 days of receiving it to the person
-you got it from.  If you received this etext on a physical
-medium (such as a disk), you must return it with your request.
-
-ABOUT PROJECT GUTENBERG-TM ETEXTS
-This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-
-tm etexts, is a "public domain" work distributed by Professor
-Michael S. Hart through the Project Gutenberg Association at
-Carnegie-Mellon University (the "Project").  Among other
-things, this means that no one owns a United States copyright
-on or for this work, so the Project (and you!) can copy and
-distribute it in the United States without permission and
-without paying copyright royalties.  Special rules, set forth
-below, apply if you wish to copy and distribute this etext
-under the Project's "PROJECT GUTENBERG" trademark.
-
-To create these etexts, the Project expends considerable
-efforts to identify, transcribe and proofread public domain
-works.  Despite these efforts, the Project's etexts and any
-medium they may be on may contain "Defects".  Among other
-things, Defects may take the form of incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged
-disk or other etext medium, a computer virus, or computer
-codes that damage or cannot be read by your equipment.
-
-LIMITED WARRANTY; DISCLAIMER OF DAMAGES
-But for the "Right of Replacement or Refund" described below,
-[1] the Project (and any other party you may receive this
-etext from as a PROJECT GUTENBERG-tm etext) disclaims all
-liability to you for damages, costs and expenses, including
-legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
-UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
-INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
-OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
-POSSIBILITY OF SUCH DAMAGES.
-
-If you discover a Defect in this etext within 90 days of
-receiving it, you can receive a refund of the money (if any)
-you paid for it by sending an explanatory note within that
-time to the person you received it from.  If you received it
-on a physical medium, you must return it with your note, and
-such person may choose to alternatively give you a replacement
-copy.  If you received it electronically, such person may
-choose to alternatively give you a second opportunity to
-receive it electronically.
-
-THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
-TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
-PARTICULAR PURPOSE.
-
-Some states do not allow disclaimers of implied warranties or
-the exclusion or limitation of consequential damages, so the
-above disclaimers and exclusions may not apply to you, and you
-may have other legal rights.
-
-INDEMNITY
-You will indemnify and hold the Project, its directors,
-officers, members and agents harmless from all liability, cost
-and expense, including legal fees, that arise directly or
-indirectly from any of the following that you do or cause:
-[1] distribution of this etext, [2] alteration, modification,
-or addition to the etext, or [3] any Defect.
-
-DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
-You may distribute copies of this etext electronically, or by
-disk, book or any other medium if you either delete this
-"Small Print!" and all other references to Project Gutenberg,
-or:
-
-[1]  Only give exact copies of it.  Among other things, this
-     requires that you do not remove, alter or modify the
-     etext or this "small print!" statement.  You may however,
-     if you wish, distribute this etext in machine readable
-     binary, compressed, mark-up, or proprietary form,
-     including any form resulting from conversion by word pro-
-     cessing or hypertext software, but only so long as
-     *EITHER*:
-
-     [*]  The etext, when displayed, is clearly readable, and
-          does *not* contain characters other than those
-          intended by the author of the work, although tilde
-          (~), asterisk (*) and underline (_) characters may
-          be used to convey punctuation intended by the
-          author, and additional characters may be used to
-          indicate hypertext links; OR
-
-     [*]  The etext may be readily converted by the reader at
-          no expense into plain ASCII, EBCDIC or equivalent
-          form by the program that displays the etext (as is
-          the case, for instance, with most word processors);
-          OR
-
-     [*]  You provide, or agree to also provide on request at
-          no additional cost, fee or expense, a copy of the
-          etext in its original plain ASCII form (or in EBCDIC
-          or other equivalent proprietary form).
-
-[2]  Honor the etext refund and replacement provisions of this
-     "Small Print!" statement.
-
-[3]  Pay a trademark license fee to the Project of 20% of the
-     net profits you derive calculated using the method you
-     already use to calculate your applicable taxes.  If you
-     don't derive profits, no royalty is due.  Royalties are
-     payable to "Project Gutenberg Association/Carnegie-Mellon
-     University" within the 60 days following each
-     date you prepare (or were legally required to prepare)
-     your annual (or equivalent periodic) tax return.
-
-WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
-The Project gratefully accepts contributions in money, time,
-scanning machines, OCR software, public domain etexts, royalty
-free copyright licenses, and every other sort of contribution
-you can think of.  Money should be paid to "Project Gutenberg
-Association / Carnegie-Mellon University".
-
-*END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
-
-
-
-
-
-
-*******The Project Gutenberg Etext of Shakespeare's Sonnets******
-#2 in our series by William Shakespeare
-
-[#1 in our series is the Complete Works of Shakespeare,
-as presented to use by the World Library, copyrighted.
-We will be presenting those as individual plays, now that
-we have we have reached the presentation of Etext #1,000]
-
-This Etext was prepared by the Project Gutenberg Shakespeare Team
-This Etext is an independent production presented as Public Domain.
-
-
-
-
-
-THE SONNETS
-by William Shakespeare
-
-
-
-
 I
 
 From fairest creatures we desire increase,
@@ -308,9 +20,9 @@ II
 When forty winters shall besiege thy brow,
 And dig deep trenches in thy beauty's field,
 Thy youth's proud livery so gazed on now,
-Will be a tatter'd weed of small worth held: 
+Will be a tatter'd weed of small worth held:
 Then being asked, where all thy beauty lies,
-Where all the treasure of thy lusty days; 
+Where all the treasure of thy lusty days;
 To say, within thine own deep sunken eyes,
 Were an all-eating shame, and thriftless praise.
 How much more praise deserv'd thy beauty's use,
@@ -329,7 +41,7 @@ Thou dost beguile the world, unbless some mother.
 For where is she so fair whose unear'd womb
 Disdains the tillage of thy husbandry?
 Or who is he so fond will be the tomb,
-Of his self-love to stop posterity? 
+Of his self-love to stop posterity?
 Thou art thy mother's glass and she in thee
 Calls back the lovely April of her prime;
 So thou through windows of thine age shalt see,
@@ -394,7 +106,7 @@ VII
 Lo! in the orient when the gracious light
 Lifts up his burning head, each under eye
 Doth homage to his new-appearing sight,
-Serving with looks his sacred majesty; 
+Serving with looks his sacred majesty;
 And having climb'd the steep-up heavenly hill,
 Resembling strong youth in his middle age,
 Yet mortal looks adore his beauty still,
@@ -415,7 +127,7 @@ Or else receiv'st with pleasure thine annoy?
 If the true concord of well-tuned sounds,
 By unions married, do offend thine ear,
 They do but sweetly chide thee, who confounds
-In singleness the parts that thou shouldst bear. 
+In singleness the parts that thou shouldst bear.
 Mark how one string, sweet husband to another,
 Strikes each in each by mutual ordering;
 Resembling sire and child and happy mother,
@@ -479,7 +191,7 @@ XII
 When I do count the clock that tells the time,
 And see the brave day sunk in hideous night;
 When I behold the violet past prime,
-And sable curls, all silvered o'er with white; 
+And sable curls, all silvered o'er with white;
 When lofty trees I see barren of leaves,
 Which erst from heat did canopy the herd,
 And summer's green all girded up in sheaves,
@@ -500,7 +212,7 @@ And your sweet semblance to some other give:
 So should that beauty which you hold in lease
 Find no determination; then you were
 Yourself again, after yourself's decease,
-When your sweet issue your sweet form should bear. 
+When your sweet issue your sweet form should bear.
 Who lets so fair a house fall to decay,
 Which husbandry in honour might uphold,
 Against the stormy gusts of winter's day
@@ -521,7 +233,7 @@ By oft predict that I in heaven find:
 But from thine eyes my knowledge I derive,
 And constant stars in them I read such art
 As 'Truth and beauty shall together thrive,
-If from thyself, to store thou wouldst convert'; 
+If from thyself, to store thou wouldst convert';
   Or else of thee this I prognosticate:
   'Thy end is truth's and beauty's doom and date.'
 
@@ -564,7 +276,7 @@ XVII
 Who will believe my verse in time to come,
 If it were fill'd with your most high deserts?
 Though yet heaven knows it is but as a tomb
-Which hides your life, and shows not half your parts. 
+Which hides your life, and shows not half your parts.
 If I could write the beauty of your eyes,
 And in fresh numbers number all your graces,
 The age to come would say 'This poet lies;
@@ -585,7 +297,7 @@ And summer's lease hath all too short a date:
 Sometime too hot the eye of heaven shines,
 And often is his gold complexion dimm'd,
 And every fair from fair sometime declines,
-By chance, or nature's changing course untrimm'd: 
+By chance, or nature's changing course untrimm'd:
 But thy eternal summer shall not fade,
 Nor lose possession of that fair thou ow'st,
 Nor shall death brag thou wander'st in his shade,
@@ -606,7 +318,7 @@ But I forbid thee one most heinous crime:
 O! carve not with thy hours my love's fair brow,
 Nor draw no lines there with thine antique pen;
 Him in thy course untainted do allow
-For beauty's pattern to succeeding men. 
+For beauty's pattern to succeeding men.
   Yet, do thy worst old Time: despite thy wrong,
   My love shall in my verse ever live young.
 
@@ -649,7 +361,7 @@ XXII
 My glass shall not persuade me I am old,
 So long as youth and thou are of one date;
 But when in thee time's furrows I behold,
-Then look I death my days should expiate. 
+Then look I death my days should expiate.
 For all that beauty that doth cover thee,
 Is but the seemly raiment of my heart,
 Which in thy breast doth live, as thine in me:
@@ -670,7 +382,7 @@ Whose strength's abundance weakens his own heart;
 So I, for fear of trust, forget to say
 The perfect ceremony of love's rite,
 And in mine own love's strength seem to decay,
-O'ercharg'd with burthen of mine own love's might. 
+O'ercharg'd with burthen of mine own love's might.
 O! let my looks be then the eloquence
 And dumb presagers of my speaking breast,
 Who plead for love, and look for recompense,
@@ -691,7 +403,7 @@ That hath his windows glazed with thine eyes.
 Now see what good turns eyes for eyes have done:
 Mine eyes have drawn thy shape, and thine for me
 Are windows to my breast, where-through the sun
-Delights to peep, to gaze therein on thee; 
+Delights to peep, to gaze therein on thee;
   Yet eyes this cunning want to grace their art,
   They draw but what they see, know not the heart.
 
@@ -734,7 +446,7 @@ XXVII
 Weary with toil, I haste me to my bed,
 The dear respose for limbs with travel tir'd;
 But then begins a journey in my head
-To work my mind, when body's work's expired: 
+To work my mind, when body's work's expired:
 For then my thoughts--from far where I abide--
 Intend a zealous pilgrimage to thee,
 And keep my drooping eyelids open wide,
@@ -755,7 +467,7 @@ But day by night and night by day oppress'd,
 And each, though enemies to either's reign,
 Do in consent shake hands to torture me,
 The one by toil, the other to complain
-How far I toil, still farther off from thee. 
+How far I toil, still farther off from thee.
 I tell the day, to please him thou art bright,
 And dost him grace when clouds do blot the heaven:
 So flatter I the swart-complexion'd night,
@@ -840,7 +552,7 @@ Gilding pale streams with heavenly alchemy;
 Anon permit the basest clouds to ride
 With ugly rack on his celestial face,
 And from the forlorn world his visage hide,
-Stealing unseen to west with this disgrace: 
+Stealing unseen to west with this disgrace:
 Even so my sun one early morn did shine,
 With all triumphant splendour on my brow;
 But out! alack! he was but one hour mine,
@@ -861,7 +573,7 @@ That heals the wound, and cures not the disgrace:
 Nor can thy shame give physic to my grief;
 Though thou repent, yet I have still the loss:
 The offender's sorrow lends but weak relief
-To him that bears the strong offence's cross. 
+To him that bears the strong offence's cross.
   Ah! but those tears are pearl which thy love sheds,
   And they are rich and ransom all ill deeds.
 
@@ -904,7 +616,7 @@ XXXVII
 As a decrepit father takes delight
 To see his active child do deeds of youth,
 So I, made lame by Fortune's dearest spite,
-Take all my comfort of thy worth and truth; 
+Take all my comfort of thy worth and truth;
 For whether beauty, birth, or wealth, or wit,
 Or any of these all, or all, or more,
 Entitled in thy parts, do crowned sit,
@@ -925,7 +637,7 @@ For every vulgar paper to rehearse?
 O! give thy self the thanks, if aught in me
 Worthy perusal stand against thy sight;
 For who's so dumb that cannot write to thee,
-When thou thy self dost give invention light? 
+When thou thy self dost give invention light?
 Be thou the tenth Muse, ten times more in worth
 Than those old nine which rhymers invocate;
 And he that calls on thee, let him bring forth
@@ -946,10 +658,10 @@ That due to thee which thou deserv'st alone.
 O absence! what a torment wouldst thou prove,
 Were it not thy sour leisure gave sweet leave,
 To entertain the time with thoughts of love,
-Which time and thoughts so sweetly doth deceive, 
+Which time and thoughts so sweetly doth deceive,
   And that thou teachest how to make one twain,
   By praising him here who doth hence remain.
- 
+
 XL
 
 Take all my loves, my love, yea take them all;
@@ -989,7 +701,7 @@ XLII
 That thou hast her it is not all my grief,
 And yet it may be said I loved her dearly;
 That she hath thee is of my wailing chief,
-A loss in love that touches me more nearly. 
+A loss in love that touches me more nearly.
 Loving offenders thus I will excuse ye:
 Thou dost love her, because thou know'st I love her;
 And for my sake even so doth she abuse me,
@@ -1010,7 +722,7 @@ And darkly bright, are bright in dark directed.
 Then thou, whose shadow shadows doth make bright,
 How would thy shadow's form form happy show
 To the clear day with thy much clearer light,
-When to unseeing eyes thy shade shines so! 
+When to unseeing eyes thy shade shines so!
 How would, I say, mine eyes be blessed made
 By looking on thee in the living day,
 When in dead night thy fair imperfect shade
@@ -1095,7 +807,7 @@ From hands of falsehood, in sure wards of trust!
 But thou, to whom my jewels trifles are,
 Most worthy comfort, now my greatest grief,
 Thou best of dearest, and mine only care,
-Art left the prey of every vulgar thief. 
+Art left the prey of every vulgar thief.
 Thee have I not lock'd up in any chest,
 Save where thou art not, though I feel thou art,
 Within the gentle closure of my breast,
@@ -1116,7 +828,7 @@ Shall reasons find of settled gravity;
 Against that time do I ensconce me here,
 Within the knowledge of mine own desert,
 And this my hand, against my self uprear,
-To guard the lawful reasons on thy part: 
+To guard the lawful reasons on thy part:
   To leave poor me thou hast the strength of laws,
   Since why to love I can allege no cause.
 
@@ -1159,7 +871,7 @@ LII
 So am I as the rich, whose blessed key,
 Can bring him to his sweet up-locked treasure,
 The which he will not every hour survey,
-For blunting the fine point of seldom pleasure. 
+For blunting the fine point of seldom pleasure.
 Therefore are feasts so solemn and so rare,
 Since, seldom coming in that long year set,
 Like stones of worth they thinly placed are,
@@ -1180,7 +892,7 @@ And you but one, can every shadow lend.
 Describe Adonis, and the counterfeit
 Is poorly imitated after you;
 On Helen's cheek all art of beauty set,
-And you in Grecian tires are painted new: 
+And you in Grecian tires are painted new:
 Speak of the spring, and foison of the year,
 The one doth shadow of your beauty show,
 The other as your bounty doth appear;
@@ -1201,7 +913,7 @@ When summer's breath their masked buds discloses:
 But, for their virtue only is their show,
 They live unwoo'd, and unrespected fade;
 Die to themselves. Sweet roses do not so;
-Of their sweet deaths, are sweetest odours made: 
+Of their sweet deaths, are sweetest odours made:
   And so of you, beauteous and lovely youth,
   When that shall vade, by verse distills your truth.
 
@@ -1244,7 +956,7 @@ LVII
 Being your slave what should I do but tend,
 Upon the hours, and times of your desire?
 I have no precious time at all to spend;
-Nor services to do, till you require. 
+Nor services to do, till you require.
 Nor dare I chide the world-without-end hour,
 Whilst I, my sovereign, watch the clock for you,
 Nor think the bitterness of absence sour,
@@ -1265,7 +977,7 @@ Being your vassal, bound to stay your leisure!
 O! let me suffer, being at your beck,
 The imprison'd absence of your liberty;
 And patience, tame to sufferance, bide each check,
-Without accusing you of injury. 
+Without accusing you of injury.
 Be where you list, your charter is so strong
 That you yourself may privilage your time
 To what you will; to you it doth belong
@@ -1286,7 +998,7 @@ Since mind at first in character was done!
 That I might see what the old world could say
 To this composed wonder of your frame;
 Wh'r we are mended, or wh'r better they,
-Or whether revolution be the same. 
+Or whether revolution be the same.
   O! sure I am the wits of former days,
   To subjects worse have given admiring praise.
 
@@ -1350,7 +1062,7 @@ With lines and wrinkles; when his youthful morn
 Hath travell'd on to age's steepy night;
 And all those beauties whereof now he's king
 Are vanishing, or vanished out of sight,
-Stealing away the treasure of his spring; 
+Stealing away the treasure of his spring;
 For such a time do I now fortify
 Against confounding age's cruel knife,
 That he shall never cut from memory
@@ -1371,7 +1083,7 @@ Increasing store with loss, and loss with store;
 When I have seen such interchange of state,
 Or state itself confounded, to decay;
 Ruin hath taught me thus to ruminate--
-That Time will come and take my love away. 
+That Time will come and take my love away.
   This thought is as a death which cannot choose
   But weep to have, that which it fears to lose.
 
@@ -1414,7 +1126,7 @@ LXVII
 Ah! wherefore with infection should he live,
 And with his presence grace impiety,
 That sin by him advantage should achieve,
-And lace itself with his society? 
+And lace itself with his society?
 Why should false painting imitate his cheek,
 And steel dead seeming of his living hue?
 Why should poor beauty indirectly seek
@@ -1435,7 +1147,7 @@ Or durst inhabit on a living brow;
 Before the golden tresses of the dead,
 The right of sepulchres, were shorn away,
 To live a second life on second head;
-Ere beauty's dead fleece made another gay: 
+Ere beauty's dead fleece made another gay:
 In him those holy antique hours are seen,
 Without all ornament, itself and true,
 Making no summer of another's green,
@@ -1456,7 +1168,7 @@ By seeing farther than the eye hath shown.
 They look into the beauty of thy mind,
 And that in guess they measure by thy deeds;
 Then--churls--their thoughts, although their eyes were kind,
-To thy fair flower add the rank smell of weeds: 
+To thy fair flower add the rank smell of weeds:
   But why thy odour matcheth not thy show,
   The soil is this, that thou dost common grow.
 
@@ -1520,7 +1232,7 @@ Bare ruin'd choirs, where late the sweet birds sang.
 In me thou see'st the twilight of such day
 As after sunset fadeth in the west;
 Which by and by black night doth take away,
-Death's second self, that seals up all in rest. 
+Death's second self, that seals up all in rest.
 In me thou see'st the glowing of such fire,
 That on the ashes of his youth doth lie,
 As the death-bed, whereon it must expire,
@@ -1584,7 +1296,7 @@ LXXVII
 Thy glass will show thee how thy beauties wear,
 Thy dial how thy precious minutes waste;
 These vacant leaves thy mind's imprint will bear,
-And of this book, this learning mayst thou taste. 
+And of this book, this learning mayst thou taste.
 The wrinkles which thy glass will truly show
 Of mouthed graves will give thee memory;
 Thou by thy dial's shady stealth mayst know
@@ -1626,7 +1338,7 @@ He robs thee of, and pays it thee again.
 He lends thee virtue, and he stole that word
 From thy behaviour; beauty doth he give,
 And found it in thy cheek: he can afford
-No praise to thee, but what in thee doth live. 
+No praise to thee, but what in thee doth live.
   Then thank him not for that which he doth say,
   Since what he owes thee, thou thyself dost pay.
 
@@ -1669,7 +1381,7 @@ LXXXII
 I grant thou wert not married to my Muse,
 And therefore mayst without attaint o'erlook
 The dedicated words which writers use
-Of their fair subject, blessing every book. 
+Of their fair subject, blessing every book.
 Thou art as fair in knowledge as in hue,
 Finding thy worth a limit past my praise;
 And therefore art enforced to seek anew
@@ -1690,7 +1402,7 @@ That barren tender of a poet's debt:
 And therefore have I slept in your report,
 That you yourself, being extant, well might show
 How far a modern quill doth come too short,
-Speaking of worth, what worth in you doth grow. 
+Speaking of worth, what worth in you doth grow.
 This silence for my sin you did impute,
 Which shall be most my glory being dumb;
 For I impair not beauty being mute,
@@ -1775,7 +1487,7 @@ And prove thee virtuous, though thou art forsworn.
 With mine own weakness, being best acquainted,
 Upon thy part I can set down a story
 Of faults conceal'd, wherein I am attainted;
-That thou in losing me shalt win much glory: 
+That thou in losing me shalt win much glory:
 And I by this will be a gainer too;
 For bending all my loving thoughts on thee,
 The injuries that to myself I do,
@@ -1796,7 +1508,7 @@ I will acquaintance strangle, and look strange;
 Be absent from thy walks; and in my tongue
 Thy sweet beloved name no more shall dwell,
 Lest I, too much profane, should do it wrong,
-And haply of our old acquaintance tell. 
+And haply of our old acquaintance tell.
   For thee, against my self I'll vow debate,
   For I must ne'er love him whom thou dost hate.
 
@@ -1839,7 +1551,7 @@ XCII
 But do thy worst to steal thyself away,
 For term of life thou art assured mine;
 And life no longer than thy love will stay,
-For it depends upon that love of thine. 
+For it depends upon that love of thine.
 Then need I not to fear the worst of wrongs,
 When in the least of them my life hath end.
 I see a better state to me belongs
@@ -1860,7 +1572,7 @@ Thy looks with me, thy heart in other place:
 For there can live no hatred in thine eye,
 Therefore in that I cannot know thy change.
 In many's looks, the false heart's history
-Is writ in moods, and frowns, and wrinkles strange. 
+Is writ in moods, and frowns, and wrinkles strange.
 But heaven in thy creation did decree
 That in thy face sweet love should ever dwell;
 Whate'er thy thoughts, or thy heart's workings be,
@@ -1881,7 +1593,7 @@ Others, but stewards of their excellence.
 The summer's flower is to the summer sweet,
 Though to itself, it only live and die,
 But if that flower with base infection meet,
-The basest weed outbraves his dignity: 
+The basest weed outbraves his dignity:
   For sweetest things turn sourest by their deeds;
   Lilies that fester, smell far worse than weeds.
 
@@ -1924,7 +1636,7 @@ XCVII
 How like a winter hath my absence been
 From thee, the pleasure of the fleeting year!
 What freezings have I felt, what dark days seen!
-What old December's bareness everywhere! 
+What old December's bareness everywhere!
 And yet this time removed was summer's time;
 The teeming autumn, big with rich increase,
 Bearing the wanton burden of the prime,
@@ -1945,7 +1657,7 @@ That heavy Saturn laugh'd and leap'd with him.
 Yet nor the lays of birds, nor the sweet smell
 Of different flowers in odour and in hue,
 Could make me any summer's story tell,
-Or from their proud lap pluck them where they grew: 
+Or from their proud lap pluck them where they grew:
 Nor did I wonder at the lily's white,
 Nor praise the deep vermilion in the rose;
 They were but sweet, but figures of delight,
@@ -1966,7 +1678,7 @@ The roses fearfully on thorns did stand,
 One blushing shame, another white despair;
 A third, nor red nor white, had stol'n of both,
 And to his robbery had annex'd thy breath;
-But, for his theft, in pride of all his growth 
+But, for his theft, in pride of all his growth
 A vengeful canker eat him up to death.
   More flowers I noted, yet I none could see,
   But sweet, or colour it had stol'n from thee.
@@ -2030,7 +1742,7 @@ The argument, all bare, is of more worth
 Than when it hath my added praise beside!
 O! blame me not, if I no more can write!
 Look in your glass, and there appears a face
-That over-goes my blunt invention quite, 
+That over-goes my blunt invention quite,
 Dulling my lines, and doing me disgrace.
 Were it not sinful then, striving to mend,
 To mar the subject that before was well?
@@ -2094,7 +1806,7 @@ CVII
 
 Not mine own fears, nor the prophetic soul
 Of the wide world dreaming on things to come,
-Can yet the lease of my true love control, 
+Can yet the lease of my true love control,
 Supposed as forfeit to a confin'd doom.
 The mortal moon hath her eclipse endur'd,
 And the sad augurs mock their own presage;
@@ -2115,7 +1827,7 @@ What's new to speak, what now to register,
 That may express my love, or thy dear merit?
 Nothing, sweet boy; but yet, like prayers divine,
 I must each day say o'er the very same;
-Counting no old thing old, thou mine, I thine, 
+Counting no old thing old, thou mine, I thine,
 Even as when first I hallow'd thy fair name.
 So that eternal love in love's fresh case,
 Weighs not the dust and injury of age,
@@ -2136,7 +1848,7 @@ Just to the time, not with the time exchang'd,
 So that myself bring water for my stain.
 Never believe though in my nature reign'd,
 All frailties that besiege all kinds of blood,
-That it could so preposterously be stain'd, 
+That it could so preposterously be stain'd,
 To leave for nothing all thy sum of good;
   For nothing this wide universe I call,
   Save thou, my rose, in it thou art my all.
@@ -2179,7 +1891,7 @@ CXII
 
 Your love and pity doth the impression fill,
 Which vulgar scandal stamp'd upon my brow;
-For what care I who calls me well or ill, 
+For what care I who calls me well or ill,
 So you o'er-green my bad, my good allow?
 You are my all-the-world, and I must strive
 To know my shames and praises from your tongue;
@@ -2200,7 +1912,7 @@ Doth part his function and is partly blind,
 Seems seeing, but effectually is out;
 For it no form delivers to the heart
 Of bird, of flower, or shape which it doth latch:
-Of his quick objects hath the mind no part, 
+Of his quick objects hath the mind no part,
 Nor his own vision holds what it doth catch;
 For if it see the rud'st or gentlest sight,
 The most sweet favour or deformed'st creature,
@@ -2221,7 +1933,7 @@ Creating every bad a perfect best,
 As fast as objects to his beams assemble?
 O! 'tis the first, 'tis flattery in my seeing,
 And my great mind most kingly drinks it up:
-Mine eye well knows what with his gust is 'greeing, 
+Mine eye well knows what with his gust is 'greeing,
 And to his palate doth prepare the cup:
   If it be poison'd, 'tis the lesser sin
   That mine eye loves it and doth first begin.
@@ -2264,7 +1976,7 @@ CXVII
 
 Accuse me thus: that I have scanted all,
 Wherein I should your great deserts repay,
-Forgot upon your dearest love to call, 
+Forgot upon your dearest love to call,
 Whereto all bonds do tie me day by day;
 That I have frequent been with unknown minds,
 And given to time your own dear-purchas'd right;
@@ -2391,7 +2103,7 @@ Under the blow of thralled discontent,
 Whereto th' inviting time our fashion calls:
 It fears not policy, that heretic,
 Which works on leases of short-number'd hours,
-But all alone stands hugely politic, 
+But all alone stands hugely politic,
 That it nor grows with heat, nor drowns with showers.
   To this I witness call the fools of time,
   Which die for goodness, who have lived for crime.
@@ -2434,7 +2146,7 @@ In the old age black was not counted fair,
 Or if it were, it bore not beauty's name;
 But now is black beauty's successive heir,
 And beauty slander'd with a bastard shame:
-For since each hand hath put on Nature's power, 
+For since each hand hath put on Nature's power,
 Fairing the foul with Art's false borrowed face,
 Sweet beauty hath no name, no holy bower,
 But is profan'd, if not lives in disgrace.
@@ -2455,7 +2167,7 @@ Do I envy those jacks that nimble leap,
 To kiss the tender inward of thy hand,
 Whilst my poor lips which should that harvest reap,
 At the wood's boldness by thee blushing stand!
-To be so tickled, they would change their state 
+To be so tickled, they would change their state
 And situation with those dancing chips,
 O'er whom thy fingers walk with gentle gait,
 Making dead wood more bless'd than living lips.
@@ -2498,7 +2210,7 @@ My mistress, when she walks, treads on the ground:
 
 CXXXI
 
-Thou art as tyrannous, so as thou art, 
+Thou art as tyrannous, so as thou art,
 As those whose beauties proudly make them cruel;
 For well thou know'st to my dear doting heart
 Thou art the fairest and most precious jewel.
@@ -2519,7 +2231,7 @@ Thine eyes I love, and they, as pitying me,
 Knowing thy heart torment me with disdain,
 Have put on black and loving mourners be,
 Looking with pretty ruth upon my pain.
-And truly not the morning sun of heaven 
+And truly not the morning sun of heaven
 Better becomes the grey cheeks of the east,
 Nor that full star that ushers in the even,
 Doth half that glory to the sober west,
@@ -2540,7 +2252,7 @@ Me from myself thy cruel eye hath taken,
 And my next self thou harder hast engross'd:
 Of him, myself, and thee I am forsaken;
 A torment thrice three-fold thus to be cross'd:
-Prison my heart in thy steel bosom's ward, 
+Prison my heart in thy steel bosom's ward,
 But then my friend's heart let my poor heart bail;
 Whoe'er keeps me, let my heart be his guard;
 Thou canst not then use rigour in my jail:
@@ -2583,7 +2295,7 @@ One will of mine, to make thy large will more.
 
 CXXXVI
 
-If thy soul check thee that I come so near, 
+If thy soul check thee that I come so near,
 Swear to thy blind soul that I was thy 'Will',
 And will, thy soul knows, is admitted there;
 Thus far for love, my love-suit, sweet, fulfil.
@@ -2604,7 +2316,7 @@ Thou blind fool, Love, what dost thou to mine eyes,
 That they behold, and see not what they see?
 They know what beauty is, see where it lies,
 Yet what the best is take the worst to be.
-If eyes, corrupt by over-partial looks, 
+If eyes, corrupt by over-partial looks,
 Be anchor'd in the bay where all men ride,
 Why of eyes' falsehood hast thou forged hooks,
 Whereto the judgment of my heart is tied?
@@ -2625,7 +2337,7 @@ Thus vainly thinking that she thinks me young,
 Although she knows my days are past the best,
 Simply I credit her false-speaking tongue:
 On both sides thus is simple truth suppressed:
-But wherefore says she not she is unjust? 
+But wherefore says she not she is unjust?
 And wherefore say not I that I am old?
 O! love's best habit is in seeming trust,
 And age in love, loves not to have years told:
@@ -2646,7 +2358,7 @@ Let me excuse thee: ah! my love well knows
 Her pretty looks have been mine enemies;
 And therefore from my face she turns my foes,
 That they elsewhere might dart their injuries:
-  Yet do not so; but since I am near slain, 
+  Yet do not so; but since I am near slain,
   Kill me outright with looks, and rid my pain.
 
 
@@ -2669,7 +2381,7 @@ Mad slanderers by mad ears believed be.
 
 CXLI
 
-In faith I do not love thee with mine eyes, 
+In faith I do not love thee with mine eyes,
 For they in thee a thousand errors note;
 But 'tis my heart that loves what they despise,
 Who, in despite of view, is pleased to dote.
@@ -2690,7 +2402,7 @@ Love is my sin, and thy dear virtue hate,
 Hate of my sin, grounded on sinful loving:
 O! but with mine compare thou thine own state,
 And thou shalt find it merits not reproving;
-Or, if it do, not from those lips of thine, 
+Or, if it do, not from those lips of thine,
 That have profan'd their scarlet ornaments
 And seal'd false bonds of love as oft as mine,
 Robb'd others' beds' revenues of their rents.
@@ -2711,7 +2423,7 @@ Whilst her neglected child holds her in chase,
 Cries to catch her whose busy care is bent
 To follow that which flies before her face,
 Not prizing her poor infant's discontent;
-So runn'st thou after that which flies from thee, 
+So runn'st thou after that which flies from thee,
 Whilst I thy babe chase thee afar behind;
 But if thou catch thy hope, turn back to me,
 And play the mother's part, kiss me, be kind;
@@ -2732,7 +2444,7 @@ And whether that my angel be turn'd fiend,
 Suspect I may, yet not directly tell;
 But being both from me, both to each friend,
 I guess one angel in another's hell:
-  Yet this shall I ne'er know, but live in doubt, 
+  Yet this shall I ne'er know, but live in doubt,
   Till my bad angel fire my good one out.
 
 CXLV
@@ -2754,7 +2466,7 @@ From heaven to hell is flown away.
 
 CXLVI
 
-Poor soul, the centre of my sinful earth, 
+Poor soul, the centre of my sinful earth,
 My sinful earth these rebel powers array,
 Why dost thou pine within and suffer dearth,
 Painting thy outward walls so costly gay?
@@ -2775,7 +2487,7 @@ My love is as a fever longing still,
 For that which longer nurseth the disease;
 Feeding on that which doth preserve the ill,
 The uncertain sickly appetite to please.
-My reason, the physician to my love, 
+My reason, the physician to my love,
 Angry that his prescriptions are not kept,
 Hath left me, and I desperate now approve
 Desire is death, which physic did except.
@@ -2796,7 +2508,7 @@ If that be fair whereon my false eyes dote,
 What means the world to say it is not so?
 If it be not, then love doth well denote
 Love's eye is not so true as all men's: no,
-How can it? O! how can Love's eye be true, 
+How can it? O! how can Love's eye be true,
 That is so vexed with watching and with tears?
 No marvel then, though I mistake my view;
 The sun itself sees not, till heaven clears.
@@ -2839,7 +2551,7 @@ With others thou shouldst not abhor my state:
 
 CLI
 
-Love is too young to know what conscience is, 
+Love is too young to know what conscience is,
 Yet who knows not conscience is born of love?
 Then, gentle cheater, urge not my amiss,
 Lest guilty of my faults thy sweet self prove:
@@ -2860,7 +2572,7 @@ In loving thee thou know'st I am forsworn,
 But thou art twice forsworn, to me love swearing;
 In act thy bed-vow broke, and new faith torn,
 In vowing new hate after new love bearing:
-But why of two oaths' breach do I accuse thee, 
+But why of two oaths' breach do I accuse thee,
 When I break twenty? I am perjur'd most;
 For all my vows are oaths but to misuse thee,
 And all my honest faith in thee is lost:
@@ -2881,7 +2593,7 @@ Which borrow'd from this holy fire of Love,
 A dateless lively heat, still to endure,
 And grew a seeting bath, which yet men prove
 Against strange maladies a sovereign cure.
-But at my mistress' eye Love's brand new-fired, 
+But at my mistress' eye Love's brand new-fired,
 The boy for trial needs would touch my breast;
 I, sick withal, the help of bath desired,
 And thither hied, a sad distemper'd guest,
@@ -2902,7 +2614,7 @@ This brand she quenched in a cool well by,
 Which from Love's fire took heat perpetual,
 Growing a bath and healthful remedy,
 For men diseas'd; but I, my mistress' thrall,
-  Came there for cure and this by that I prove, 
+  Came there for cure and this by that I prove,
   Love's fire heats water, water cools not love.
 
 
@@ -2918,4 +2630,3 @@ we have we have reached the presentation of Etext #1,000]
 
 This Etext was prepared by the Project Gutenberg Shakespeare Team
 This Etext is an independent production presented as Public Domain.
-
