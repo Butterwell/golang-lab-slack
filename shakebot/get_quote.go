@@ -6,7 +6,13 @@ import (
     "fmt"
     "os"
     "math/rand"
+    "time"
+    "strings"
 )
+
+func init() {
+    rand.Seed(time.Now().UnixNano())
+}
 
 // Reading files requires checking most calls for errors.
 // This helper will streamline our error checks below.
@@ -15,7 +21,6 @@ func check(e error) {
         panic(e)
     }
 }
-
 
 // readLines reads a whole file into memory
 // and returns a slice of its lines.
@@ -26,17 +31,11 @@ func readLines(path string) ([]string, error) {
   }
   defer file.Close()
 
-  lineCount := 0
-
   var lines []string
   scanner := bufio.NewScanner(file)
   for scanner.Scan() {
-    lineCount++
-    //if (len([]rune(scanner.Text())) > 5) {
     lines = append(lines, scanner.Text())
-    //}
   }
-  fmt.Println("number of lines:", lineCount)
   return lines, scanner.Err()
 }
 
@@ -46,18 +45,24 @@ func readSonnets() ([]string){
   return lines
 }
 
-func getRandomLine(lines []string, r *rand.Rand) (string){
+func getRandomLine(lines []string) (string){
   line := ""
   for (len([]rune(line)) < 10) {
-    line = lines[r.Intn(len(lines))]
+    line = lines[rand.Intn(len(lines))]
+  }
+  if (strings.ContainsAny(line[len(line)-1:len(line)],",:.;")) {
+    return line[:len(line)-1]
   }
   return line
 }
+
 /*
 func main() {
   lines := readSonnets()
-  r := rand.New(rand.NewSource(99))
-  fmt.Println(getRandomLine(lines, r))
-  fmt.Println(lines[7])
+  fmt.Println(getRandomLine(lines))
+  fmt.Println(getRandomLine(lines))
+  fmt.Println(lines[0])
+  fmt.Println(lines[1])
+  fmt.Println(lines[2])
 }
 */
