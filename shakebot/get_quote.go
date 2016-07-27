@@ -48,7 +48,7 @@ func readSonnets() ([]string){
 
 func getRandomLine(lines []string, r *rand.Rand) (string){
   line := ""
-  for (len([]rune(line)) < 5) {
+  for (len([]rune(line)) < 10) {
     line = lines[r.Intn(len(lines))]
   }
   return line
